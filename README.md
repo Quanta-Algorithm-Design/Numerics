@@ -4,6 +4,6 @@ This repo contains some numerical methods for solving mathematical equations esp
 differential equations. methods listed below:
 
 
-#Runge-Kata (RK4)
+## Runge-Kata (RK4)
 
 RK4 is a common method for solving systems of differential equations.
